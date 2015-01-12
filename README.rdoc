@@ -1,5 +1,7 @@
 == README
 
+Ceci est la premiere application du Tutoriel_Ruby_on_Rails[http://french.railstutorial.org/chapters/beginning]
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
